@@ -1,2 +1,0 @@
-# automationCode
-automation project
